@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\bin\Debug\net6.0\WeekonefirstAPP.exe
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\bin\Debug\net6.0\WeekonefirstAPP.deps.json
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\bin\Debug\net6.0\WeekonefirstAPP.runtimeconfig.json
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\bin\Debug\net6.0\WeekonefirstAPP.dll
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\bin\Debug\net6.0\WeekonefirstAPP.pdb
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\WeekonefirstAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\WeekonefirstAPP.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\WeekonefirstAPP.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\WeekonefirstAPP.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\WeekonefirstAPP.dll
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\refint\WeekonefirstAPP.dll
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\WeekonefirstAPP.pdb
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\WeekonefirstAPP.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\WeekonefirstAPP\WeekonefirstAPP\obj\Debug\net6.0\ref\WeekonefirstAPP.dll
